@@ -14,6 +14,6 @@ At the end of 2019, a new virus (SARS-CoV-2) called COVID-19 was reported in Wuh
 
 ![image](https://user-images.githubusercontent.com/57661230/203859616-622b499e-874a-454f-9cf1-749e27487733.png)
 
-**If you have used the codes in your research works, we would appreciate citation to the paper mentioned before:**
+**If you have used the codes in your research works, we would appreciate citation to our paper:**
 
 *L. Hassanlou, S. Meshgini, R. Afrouzian, A. Farzamnia, and E. G. Moung, “FirecovNet: A Novel, Lightweight, and Fast Deep Learning-Based Network for Detecting COVID-19 Patients Using Chest X-rays,” Electronics, vol. 11, no. 19, p. 3068, Sep. 2022, doi: 10.3390/electronics11193068.*
