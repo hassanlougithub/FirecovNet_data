@@ -1,3 +1,4 @@
+# FirecovNet
 **Implementation of my paper [FirecovNet: A Novel, Lightweight, and Fast Deep Learning-Based Network for Detecting COVID-19 Patients Using Chest X-rays](https://doi.org/10.3390/electronics11193068/)**
 
 
